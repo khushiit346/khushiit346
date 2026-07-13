@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+ABOUT:
+
+* Drawn to the intersection of data, research, and business based decision-making, which has shaped a somewhat unconventional path from lab science into analytics.
+* B.Tech Biotechnology, Amity University ( Specialisation AI/ML ).
+* Experince in Scientific and Market Research and Descriptive Analytics.
+* Interested in roles involving Financial and Technical Analysis
+
+TECH STACK:
+* Excel with financial modeling add-ins
+* Python
+* SQL
+* Snowflake
+* Power BI
+* Google Colab
+
+PORTFOLIO : 
 <!--
 **khushiit346/khushiit346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
