@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEYY!
 
 ABOUT:
 
@@ -14,7 +14,7 @@ TECH STACK:
 * Power BI
 * Google Colab
 
-PORTFOLIO : 
+PORTFOLIO : https://khushiit346.github.io/
 <!--
 **khushiit346/khushiit346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
