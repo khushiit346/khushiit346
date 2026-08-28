@@ -2,7 +2,7 @@
 
 ABOUT:
 
-* Drawn to the intersection of data, research, and business based decision-making, which has shaped a somewhat unconventional path from lab science into analytics.
+* intersection of data, research, and business based decision-making, which  shapes a somewhat unconventional path from lab science into analytics.
 * B.Tech Biotechnology, Amity University ( Specialisation AI/ML ).
 * Experince in Scientific and Market Research (industry analysis) and Descriptive Analytics.
 * Interested in roles involving equity research, financial analysis, and applied ML in finance.
